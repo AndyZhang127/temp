@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECS656U-distributed-system.iml" filepath="$PROJECT_DIR$/.idea/ECS656U-distributed-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc_client/com.client.iml" filepath="$PROJECT_DIR$/grpc_client/com.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coursework/grpc-server/com.dscoursework (2).iml" filepath="$PROJECT_DIR$/coursework/grpc-server/com.dscoursework (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc_server/com.server.iml" filepath="$PROJECT_DIR$/grpc_server/com.server.iml" />
+    </modules>
+  </component>
+</project>
